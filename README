@@ -1,0 +1,8 @@
+A CosmWasm contract for cw20 and native token borrows.
+
+This contract is unaudited and does not yet support migrations in the
+event of a vulnerability. Take care. Do not use this for anything
+mission critical.
+
+This program is licensed under the AGPL. See the LICENSE file for more
+information. 
